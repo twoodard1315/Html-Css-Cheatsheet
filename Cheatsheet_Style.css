@@ -1,0 +1,39 @@
+html{
+    font-family: Helvetica, sans-serif;
+}
+
+table{
+    border: solid 2px;
+    border-color: darkred;
+}
+
+h1{
+    text-align: center;
+    color: maroon;
+}
+
+th{
+    text-align: left;   
+    font-size: 20px; 
+    background-color: red;
+    opacity: 100%;
+    color: black;
+}
+
+td{
+    text-align: left;
+    border-top: solid 2px;
+    padding: 5px;
+    border-color: darkred;
+    font-size: 18px;
+}
+
+.html{
+    width: 500px;
+    margin: auto;   
+}
+
+.css{
+    width: 300px;
+    margin: auto;
+}
